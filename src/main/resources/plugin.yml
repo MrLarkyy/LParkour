@@ -1,0 +1,8 @@
+name: LParkour
+version: ${project.version}
+main: cz.larkyy.lparkour.LParkour
+api-version: 1.13
+commands:
+  lparkour:
+    aliases: [parkour]
+    description: Parkour plugin
